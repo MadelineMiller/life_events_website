@@ -46,7 +46,7 @@ This file contains the photo for the third post.
 ------------
 INSTRUCTIONS
 
-Download all five photos to your computer's desktop. Make sure all files in saved in the same directory. 
+Download all five photos to your computer's desktop. Make sure all files in saved in the same directory and have been unzipped (if downloaded as a zip file. 
 Then open styles.css using a web browser and the website will appear. 
 
 
