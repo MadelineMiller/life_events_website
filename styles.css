@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(251, 190, 241);
+}
+
+h1 { /* "Welcome..." */
+    color:rgb(68, 20, 109); font: 70px monospace; font-weight: 300;
+    border-style: dotted; border-width: thick; border-color: rgb(204, 145, 240);
+    border-width: 20px;
+    margin: 60px 100px 60px; /* top, left/right, bottom */
+    text-align: center;
+}
+
+p1 { /*Summer 2019 Europe Trip*/
+    color: rgb(123, 16, 107); font: 35px monospace; font-weight: 300;
+    margin-left: 20px;
+}
+
+p2 {
+    color: rgb(36, 25, 108); font: 25px monospace; font-weight: 300;
+    margin-left: 20px;
+}
+
+p3 { /*31 December 2014*/
+    color: rgb(123, 16, 107); font: 35px monospace; font-weight: 300;
+    margin-left: 20px;
+}
+
+p4 {
+    color: rgb(36, 25, 108); font: 25px monospace; font-weight: 300;
+    margin-left: 20px;
+}
+
+p5 { /*13 June 2022*/
+    color: rgb(123, 16, 107); font: 35px monospace; font-weight: 300;
+    margin-left: 20px;
+}
+
+p6 {
+    color: rgb(36, 25, 108);; font: 25px monospace; font-weight: 300;
+    margin-left: 20px;
+}
+
+p7 { /*Thank you...*/
+    color: rgb(67, 46, 199); font: 45px monospace; font-weight: 300;
+    margin: 60px 100px 60px; /* top, left/right, bottom */
+    text-align: center;
+}
+
+
+video {
+    margin-top: 100px;
+    display: block;
+    margin: auto;
+}
+
+
+.center_this {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: auto; /* https://www.w3schools.com/howto/howto_css_image_center.asp */
+}
